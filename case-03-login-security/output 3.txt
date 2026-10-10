@@ -1,0 +1,18 @@
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aqila\AppData\Local\Programs\Python\Python311\python.exe c:/Users/aqila/OneDrive/Downloads/python-advanced-case-study/python-advanced-case-study/case-03-login-security/main.py
+=== SISTEM KEAMANAN AKUN & AUDIT LOG ===
+
+1. Uji username tidak valid:
+[2026-10-11 06:03:25] User: Ayu!       | Status: DITOLAK - Username minimal 5 karakter dan hanya boleh berisi huruf/angka.
+
+2. Uji password terlalu pendek:
+[2026-10-11 06:03:25] User: Ayu123     | Status: DITOLAK - Password minimal 8 karakter dan wajib mengandung angka.
+
+3. Uji password tanpa angka:
+[2026-10-11 06:03:25] User: Budi123    | Status: DITOLAK - Password minimal 8 karakter dan wajib mengandung angka.
+
+4. Uji login sukses:
+[2026-10-11 06:03:25] User: Cantika    | Status: BERHASIL
+
+5. Uji login dengan password salah:
+[2026-10-11 06:03:25] User: Cantika    | Status: DITOLAK - Password salah
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> 
