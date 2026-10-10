@@ -1,0 +1,31 @@
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aqila\AppData\Local\Programs\Python\Python311\python.exe c:/Users/aqila/OneDrive/Downloads/python-advanced-case-study/python-advanced-case-study/case-01-analisis-nilai/main.py
+=== ANALISIS NILAI MAHASISWA ===
+Bobot: Tugas 30% | UTS 30% | UAS 40%
+
+Daftar Nilai Akhir:
+1. Ana (240101) - Tugas: 85, UTS: 80, UAS: 88 => Nilai Akhir: 84.7
+2. Bella (240102) - Tugas: 70, UTS: 65, UAS: 80 => Nilai Akhir: 72.5
+3. Cahaya (240103) - Tugas: 91, UTS: 85, UAS: 92 => Nilai Akhir: 89.6
+4. Doni (240104) - Tugas: 75, UTS: 82, UAS: 80 => Nilai Akhir: 79.1
+5. Ella (240105) - Tugas: 95, UTS: 85, UAS: 94 => Nilai Akhir: 91.6
+
+Mahasiswa Berprestasi (nilai akhir > 80):
+- Ana (240101) : 84.7
+- Cahaya (240103) : 89.6
+- Ella (240105) : 91.6
+
+=== RANKING ===
+1. Ella - 91.6
+2. Cahaya - 89.6
+3. Ana - 84.7
+4. Doni - 79.1
+5. Bella - 72.5
+
+=== MAHASISWA TERBAIK ===
+Nama        : Ella
+NIM         : 240105
+Tugas       : 95
+UTS         : 85
+UAS         : 94
+Nilai Akhir : 91.6
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> 
