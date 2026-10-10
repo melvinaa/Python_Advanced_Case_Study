@@ -1,0 +1,23 @@
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> & C:\Users\aqila\AppData\Local\Programs\Python\Python311\python.exe c:/Users/aqila/OneDrive/Downloads/python-advanced-case-study/python-advanced-case-study/case-02-iot-generator/main.py
+=== STREAMING DATA SENSOR IoT ===
+Data diproses satu per satu tanpa menyimpan seluruh data ke list.
+
+Pembacaan ke-01 | Suhu: 15.0 °C | Status: Dingin
+Pembacaan ke-02 | Suhu: 16.5 °C | Status: Dingin
+Pembacaan ke-03 | Suhu: 18.0 °C | Status: Dingin
+Pembacaan ke-04 | Suhu: 19.5 °C | Status: Dingin
+Pembacaan ke-05 | Suhu: 21.0 °C | Status: Normal
+Pembacaan ke-06 | Suhu: 22.5 °C | Status: Normal
+Pembacaan ke-07 | Suhu: 24.0 °C | Status: Normal
+Pembacaan ke-08 | Suhu: 25.5 °C | Status: Normal
+Pembacaan ke-09 | Suhu: 27.0 °C | Status: Normal
+Pembacaan ke-10 | Suhu: 28.5 °C | Status: Normal
+Pembacaan ke-11 | Suhu: 30.0 °C | Status: Normal
+Pembacaan ke-12 | Suhu: 31.5 °C | Status: Panas
+Pembacaan ke-13 | Suhu: 33.0 °C | Status: Panas
+Pembacaan ke-14 | Suhu: 34.5 °C | Status: Panas
+Pembacaan ke-15 | Suhu: 36.0 °C | Status: Panas
+Pembacaan ke-16 | Suhu: 37.5 °C | Status: Panas
+
+Generator sudah selesai menghasilkan data.
+PS C:\Users\aqila\AppData\Local\Programs\Microsoft VS Code> 
